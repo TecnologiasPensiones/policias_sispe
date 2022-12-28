@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISPE MIGRACION", "SISPE MIGRACION\SISPE MIGRACION.csproj", "{C82172EE-01DE-4FFE-9B5E-94C8ADF5C232}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador", "instalador\instalador.vdproj", "{83ACF4CB-FBEF-4958-AE88-9229D2E979ED}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador", "instalador\instalador.vdproj", "{711A6AF0-8690-4F8D-8600-CAE07BF9A7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{C82172EE-01DE-4FFE-9B5E-94C8ADF5C232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C82172EE-01DE-4FFE-9B5E-94C8ADF5C232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C82172EE-01DE-4FFE-9B5E-94C8ADF5C232}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83ACF4CB-FBEF-4958-AE88-9229D2E979ED}.Debug|Any CPU.ActiveCfg = Debug
-		{83ACF4CB-FBEF-4958-AE88-9229D2E979ED}.Release|Any CPU.ActiveCfg = Release
+		{711A6AF0-8690-4F8D-8600-CAE07BF9A7E5}.Debug|Any CPU.ActiveCfg = Debug
+		{711A6AF0-8690-4F8D-8600-CAE07BF9A7E5}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -366,7 +366,7 @@ namespace SISPE_MIGRACION.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2.1.89.
+        ///   Looks up a localized string similar to 2.1.91.
         /// </summary>
         internal static string version {
             get {
